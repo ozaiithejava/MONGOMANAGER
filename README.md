@@ -3,7 +3,7 @@ mongo db manager in java
 
 
 ## Usage:
-```Java:
+```Java
 import org.bson.Document;
 
 public class Main {
